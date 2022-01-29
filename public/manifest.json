@@ -3,25 +3,49 @@
   "name": "Galeria - Image Gallery App",
   "icons": [
     {
-      "src": "/icons/icon-64.png",
+      "src": "/icons/logo48.png",
       "type": "image/png",
-      "sizes": "64x64",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable_icon_x48.png",
+      "type": "image/png",
+      "sizes": "48x48",
       "purpose": "maskable"
     },
     {
-      "src": "/icons/icon-128.png",
+      "src": "/icons/logo128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable_icon_x128.png",
       "type": "image/png",
       "sizes": "128x128",
       "purpose": "maskable"
     },
     {
-      "src": "/icons/icon-192.png",
+      "src": "/icons/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable_icon_x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "/icons/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable_icon_x512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"

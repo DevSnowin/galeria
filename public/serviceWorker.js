@@ -1,5 +1,5 @@
 const CACHE_NAME = "version_1";
-const urlsToCahce = ['index.html', 'offline.html', './no-connection.svg'];
+const urlsToCahce = ['index.html', 'offline.html'];
 
 const self = this;
 
